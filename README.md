@@ -5,9 +5,9 @@ Seminar Calendar
 | Date        | Speaker                  | Talk Title                                               |
 --------------|--------------------------|----------------------------------------------------------|
 | Dec 16      | João Vitor Hartung Toppa | Hybrid Compression Algorithms with Context-Free Grammars |
-| Jan 13      | Davide Tonetto           | Online computation of normalized substring complexity    |
+| Jan 13      |  |  |
 | Jan 20      |  |  |
-| Jan 27      |  |  |
+| Jan 27      | Davide Tonetto           | Online Computation of Normalized Substring Complexity.   |
 | Feb 03      | Ruben Becker             | AVL Trees                                                |
 | Feb 10      |  |  |
 | Feb 17      |  |  |

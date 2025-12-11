@@ -5,13 +5,13 @@ Seminar Calendar
 | Date        | Speaker                  | Talk Title                                               |
 --------------|--------------------------|----------------------------------------------------------|
 | Dec 16      | João Vitor Hartung Toppa | Hybrid Compression Algorithms with Context-Free Grammars |
-| Jan 13      |  Nicola Prezza           | Fusion Trees                                             |
-| Jan 20      |  Nicola Prezza           | z-fast tries, distance-sensitive predecessor queries     |
-| Jan 27      | Davide Tonetto           | Online Computation of Normalized Substring Complexity.   |
-| Feb 03      | Ruben Becker             | AVL Trees                                                |
-| Feb 10      |  |  |
-| Feb 17      |  |  |
-| Feb 24      |  |  |
+| Jan 13      
+| Jan 20      | Davide Tonetto           | Online Computation of Normalized Substring Complexity    |
+| Jan 27      | Ruben Becker             | AVL Trees                                                |
+| Feb 03      | Giulio Pibiri            | Van Emde Boas trees                                      |
+| Feb 10      | Giulio Pibiri            | x-fast / y-fast tries                                    |
+| Feb 17      | Nicola Prezza            | Fusion Trees                                             |
+| Feb 24      | Nicola Prezza            | z-fast tries, distance-sensitive predecessor queries     |
 | Mar 03      |  |  |
 | Mar 10      |  |  |
 | Mar 17      |  |  |

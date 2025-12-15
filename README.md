@@ -12,7 +12,7 @@ Seminar Calendar
 | Feb 10      | Giulio Pibiri            | x-fast / y-fast tries                                       |
 | Feb 17      | Nicola Prezza            | Fusion Trees                                                |
 | Feb 24      | Nicola Prezza            | z-fast tries, distance-sensitive predecessor queries        |
-| Mar 03      |  |  |
+| Mar 03      | Davide Cenzato           | An Introduction to Prefix-Free Parsing (PFP) Preprocessing  |
 | Mar 10      |  |  |
 | Mar 17      |  |  |
 | Mar 24      |  |  |

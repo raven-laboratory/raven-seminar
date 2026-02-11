@@ -10,8 +10,8 @@ Seminar Calendar
 | Jan 27      | Davide Cologni           | On Optimally Partitioning a Text to Improve Its Compression |
 | Feb 03      | Giulio Pibiri            | Van Emde Boas trees                                         |
 | Feb 10      | Giulio Pibiri            | x-fast / y-fast tries                                       |
-| Feb 17      | Nicola Prezza            | Fusion Trees                                                |
-| Feb 24      | Nicola Prezza            | z-fast tries, distance-sensitive predecessor queries        |
+| Feb 17      | Nicola Prezza            | Fusion Trees part 1                                         |
+| Feb 24      | Nicola Prezza            | Fusion Trees part 2                                         |
 | Mar 03      | Davide Cenzato           | An Introduction to Prefix-Free Parsing (PFP) Preprocessing  |
 | Mar 10      |  |  |
 | Mar 17      |  |  |
